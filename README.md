@@ -18,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allanikeda&show_icons=true&theme=dark&locale=en&layout=compact" alt="allanikeda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allanikeda&show_icons=true&theme=dark&locale=en" alt="allanikeda" /></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
